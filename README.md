@@ -31,4 +31,4 @@ Como o projeto foi desenvolvido na versão mais recente do .NET (v10), enfrentei
 4.  Acesse a interface do Swagger em: `http://localhost:5169/swagger` (verifique a porta no seu terminal).
 
 ---
-**Desenvolvido por Maline Lilac** Estudante de Engenharia de Software na Estácio e Estagiária de TI no FGV IBRE.
+**Desenvolvido por Maline Lilac** Estudante de Engenharia de Software e Estagiária de Desenvolvimento no FGV IBRE.

@@ -1,0 +1,6 @@
+@EasyReceiptAPI_HostAddress = http://localhost:5169
+
+GET {{EasyReceiptAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
